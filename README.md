@@ -13,6 +13,6 @@ OPIchat is a basic chat software. It's a project realized in first year of engin
 make sure that the port you choose hasn't yet in use
 
 ## Contributors
-`Rémi TANG`
-`Mickael MICHEL`
-`Sabir MOHAMED`
+`- Rémi TANG`
+`- Mickael MICHEL`
+`- Sabir MOHAMED`

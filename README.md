@@ -14,5 +14,5 @@ make sure that the port you choose hasn't yet in use
 
 ## Contributors
 *Rémi TANG*
-*Mickael MICHEL*  
-*Sabir MOHAMED*(me) 
+*Mickael MICHEL*    
+*Sabir MOHAMED*(me ☺️​) 

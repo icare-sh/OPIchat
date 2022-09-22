@@ -9,3 +9,4 @@ OPIchat is a basic chat software. It's a project realized in first year of engin
     ./opichat_client <ip> <port>
 ### server
     ./opichat_server <ip> <port>
+make sure that the port you choose hasn't yet in use
